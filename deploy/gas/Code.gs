@@ -1,7 +1,7 @@
 // Google Apps Script
 
-const AUTH_KEY = "STRONG_SECRET_KEY";
-const WORKER_URL = "https://example.workers.dev";
+const AUTH_KEY = "Morteza1379@";
+const WORKER_URL = "https://super-mode-7569.hasanvand59.workers.dev/";
 
 const SKIP_HEADERS = {
   host: 1, connection: 1, "content-length": 1,
